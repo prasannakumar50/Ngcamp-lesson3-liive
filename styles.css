@@ -132,3 +132,17 @@ hr{
 .footer .link{
     color: white;
 }
+
+.footer-header{
+    font-size: large;
+    font-weight: bold;
+}
+
+.footer .social-links{
+    padding-inline-start: 0;
+}
+
+.icon{
+    height: 2rem;
+    width: 2rem;
+  }
